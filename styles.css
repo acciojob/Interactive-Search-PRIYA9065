@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+*{
+	box-sizing : border-box;
+	margin : 0px;
+	padding: 0px;
+}
+.search{
+	height: 100vh;
+	width: 100vw;
+	background-color:blue;
+	display: flex;
+	justify-content : center;
+	align-items : center;
+}
+input, button {
+	padding : 7px;
+	
+}

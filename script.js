@@ -6,6 +6,5 @@ const div = document.querySelector(".search");
 
 btn.addEventListener("click", () => {
 	input.focus();
-	div.classList.add(active);
-	
+	div.classList.add("active");	
 })

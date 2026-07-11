@@ -7,7 +7,7 @@
 .search{
 	height: 100vh;
 	width: 100vw;
-	background-color:blue;
+	background-color: lightblue;
 	display: flex;
 	justify-content : center;
 	align-items : center;
